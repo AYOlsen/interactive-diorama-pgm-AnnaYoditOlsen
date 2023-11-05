@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pgm-iwebapp-diorama/static/css/main.66251e4a.css",
+    "main.js": "/pgm-iwebapp-diorama/static/js/main.3ceaf323.js",
+    "index.html": "/pgm-iwebapp-diorama/index.html",
+    "main.66251e4a.css.map": "/pgm-iwebapp-diorama/static/css/main.66251e4a.css.map",
+    "main.3ceaf323.js.map": "/pgm-iwebapp-diorama/static/js/main.3ceaf323.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66251e4a.css",
+    "static/js/main.3ceaf323.js"
+  ]
+}
