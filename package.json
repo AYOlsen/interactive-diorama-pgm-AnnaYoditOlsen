@@ -2,7 +2,7 @@
   "name": "interactive-diorama",
   "version": "0.0.1",
   "private": true,
-  "homepage": "/pgm-iwebapp-diorama",
+  "homepage": "/interactive-diorama-pgm-AnnaYoditOlsen",
   "proxy": "https://pgmgent-2324-iwebapp.github.io",
   "dependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
