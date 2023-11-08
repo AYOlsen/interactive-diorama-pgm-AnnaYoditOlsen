@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/pgm-iwebapp-diorama/static/css/main.66251e4a.css",
-    "main.js": "/pgm-iwebapp-diorama/static/js/main.3ceaf323.js",
-    "index.html": "/pgm-iwebapp-diorama/index.html",
-    "main.66251e4a.css.map": "/pgm-iwebapp-diorama/static/css/main.66251e4a.css.map",
-    "main.3ceaf323.js.map": "/pgm-iwebapp-diorama/static/js/main.3ceaf323.js.map"
+    "main.css": "/static/css/main.0f9fc812.css",
+    "main.js": "/static/js/main.7cdc8209.js",
+    "static/media/couch.glb": "/static/media/couch.f3ad3115ad06105de925.glb",
+    "static/media/desk.glb": "/static/media/desk.c6a0ed5d535810284e2d.glb",
+    "index.html": "index.html",
+    "main.0f9fc812.css.map": "/static/css/main.0f9fc812.css.map",
+    "main.7cdc8209.js.map": "/static/js/main.7cdc8209.js.map"
   },
   "entrypoints": [
-    "static/css/main.66251e4a.css",
-    "static/js/main.3ceaf323.js"
+    "/static/css/main.0f9fc812.css",
+    "/static/js/main.7cdc8209.js"
   ]
 }
