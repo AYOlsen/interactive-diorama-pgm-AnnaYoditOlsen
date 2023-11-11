@@ -11,6 +11,8 @@ export namespace SettingsLevaColor {
     "Warm" = "hsl(0, 100%, 99%)",
     "White" = "hsl(0, 0%, 100%)",
     "Yellow" = "hsl(60, 100%, 70%)",
+    "Grey" = "hsl(0, 0%, 53%)",
+    "Warmish" = "#ffc285",
   }
 
   export function color(value: string = values.White, prefix: string = "") {

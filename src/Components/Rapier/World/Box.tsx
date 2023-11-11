@@ -4,14 +4,14 @@ import { RigidBody } from "@react-three/rapier";
 
 const RapierWorldBox = () => {
   return (
-    <RigidBody position={[-2, 3, -2]} type="fixed">
-      <Box args={[0.2, 4, 5]} castShadow={true} receiveShadow={true}
-            position={[-0.4, -1, 2]} rotation={[0, 0, 0]}
+    <RigidBody position={[-1.8, 3, -2]} type="fixed">
+      <Box args={[0.2, 4, 4.5]} castShadow={true} receiveShadow={true}
+            position={[-0.35, -1, 2]} rotation={[0, 0, 0]}
             >
         <meshStandardMaterial color={0xffffff} />
       </Box>
-      <Box args={[0.2, 4, 5]} castShadow={true} receiveShadow={true}
-            position={[2, -1, -0.5]} rotation={[0, 1.6, 0]}
+      <Box args={[0.2, 4, 4.5]} castShadow={true} receiveShadow={true}
+            position={[1.8, -1, -0.3]} rotation={[0, 1.57, 0]}
             >
         <meshStandardMaterial color={0xffffff} />
       </Box>

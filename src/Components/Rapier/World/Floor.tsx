@@ -2,7 +2,7 @@ import { Plane } from "@react-three/drei";
 import { RigidBody } from "@react-three/rapier";
 import { Euler, MathUtils } from "three";
 
-const PLANE_SIZE = 5;
+const PLANE_SIZE = 4.5;
 
 const RapierWorldFloor = () => {
   const args: [number, number] = [PLANE_SIZE, PLANE_SIZE];

@@ -47,7 +47,7 @@ const LightingThreePoint = (): JSX.Element => {
       "Fill Light": folder(
         {
           castShadow: SettingsLevaLighting.castShadow(true),
-          color: SettingsLevaColor.color(SettingsLevaColor.values.Blueish),
+          color: SettingsLevaColor.color(SettingsLevaColor.values.Grey),
           intensity: SettingsLevaLighting.intensity(75.0),
           position: SettingsLevaPosition.position(-4, 2, 4),
         },
@@ -62,7 +62,7 @@ const LightingThreePoint = (): JSX.Element => {
       "Key Light": folder(
         {
           castShadow: SettingsLevaLighting.castShadow(true),
-          color: SettingsLevaColor.color(SettingsLevaColor.values.Reddish),
+          color: SettingsLevaColor.color(SettingsLevaColor.values.Warmish),
           intensity: SettingsLevaLighting.intensity(75.0),
           position: SettingsLevaPosition.position(4, 2, 4),
         },
