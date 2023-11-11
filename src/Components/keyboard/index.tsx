@@ -7,7 +7,7 @@ const Keyboard = () => {
     const { scene } = useGLTF(gltfKeyboard) as GLTF;
 
     return (
-        <group name="Keyboard" position={[0, -0.1, -0.4]}>
+        <group name="Keyboard" position={[0, -0.1, -0.]}>
             <primitive object={scene!} />
         </group>
     );
