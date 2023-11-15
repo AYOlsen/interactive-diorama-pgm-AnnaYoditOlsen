@@ -38,7 +38,7 @@ const LightingThreePointVolumetric = (): JSX.Element => {
         {
           angle: SettingsLevaLighting.angle(),
           castShadow: SettingsLevaLighting.castShadow(true),
-          color: SettingsLevaColor.color(SettingsLevaColor.values.Warm),
+          color: SettingsLevaColor.color(SettingsLevaColor.values.Dark),
           distance: SettingsLevaLighting.distance(7),
           intensity: SettingsLevaLighting.intensity(75.0),
           penumbra: SettingsLevaLighting.penumbra(),

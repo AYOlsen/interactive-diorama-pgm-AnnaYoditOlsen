@@ -45,3 +45,23 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## Credits
+- Bureau lamp:
+  michael.jelicic
+  https://sketchfab.com/3d-models/banker-lamp-a71cefed7c0a4be09cfbb0c103a7b297
+
+- Muur decoratie: verandert van kleur
+  Ayman.Ibrahim
+  https://sketchfab.com/3d-models/delaunay-3d-pyramids-wall-b45e758dedc3450b9a1e6cce2bca243f
+
+- koffie beker: kleiner gemaakt
+  Blizzy
+  https://sketchfab.com/3d-models/coffee-cup-ce14e184dce0440ebf21246ae876fca6
+
+- Toetsenbord:
+  sleepyjoshua
+  https://sketchfab.com/3d-models/lowpoly-65-mechanical-keyboard-0cdd429eb08549ac954352169de5c8f8
+
+- Toetsenbord geluid:
+  https://pixabay.com/sound-effects/quick-mechanical-keyboard-14391/

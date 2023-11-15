@@ -39,7 +39,7 @@ const SceneRapierLayout = ({ children }: LayoutProps): JSX.Element => {
     {
       gravity: SettingsLevaPhysics.gravity(),
       paused: SettingsLevaPhysics.paused(),
-      showDebug: SettingsLevaPhysics.showDebug(true),
+      showDebug: SettingsLevaPhysics.showDebug(false),
     },
     Settings.folder(LEVA.ORDER.PHYSICS)
   );

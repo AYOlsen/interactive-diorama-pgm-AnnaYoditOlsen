@@ -18,7 +18,7 @@ const LightingThreePoint = (): JSX.Element => {
     {
       "Ambient Light": folder(
         {
-          color: SettingsLevaColor.color(SettingsLevaColor.values.Warm),
+          color: SettingsLevaColor.color(SettingsLevaColor.values.Dark),
           intensity: SettingsLevaLighting.intensity(0.2),
         },
         Settings.folder()
@@ -31,10 +31,10 @@ const LightingThreePoint = (): JSX.Element => {
     {
       "Back Light": folder(
         {
-          castShadow: SettingsLevaLighting.castShadow(true),
-          color: SettingsLevaColor.color(SettingsLevaColor.values.Warm),
+          castShadow: SettingsLevaLighting.castShadow(false),
+          color: SettingsLevaColor.color(SettingsLevaColor.values.Dark),
           intensity: SettingsLevaLighting.intensity(75.0),
-          position: SettingsLevaPosition.position(4, 2, -4),
+          position: SettingsLevaPosition.position(4, 4, -4),
         },
         Settings.folder()
       ),
@@ -49,7 +49,7 @@ const LightingThreePoint = (): JSX.Element => {
           castShadow: SettingsLevaLighting.castShadow(true),
           color: SettingsLevaColor.color(SettingsLevaColor.values.Grey),
           intensity: SettingsLevaLighting.intensity(75.0),
-          position: SettingsLevaPosition.position(-4, 2, 4),
+          position: SettingsLevaPosition.position(-4, 5, 4),
         },
         Settings.folder()
       ),
