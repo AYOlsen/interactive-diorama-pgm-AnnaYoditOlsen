@@ -10,8 +10,8 @@ const Furniture = () => {
 
     return (
         <group name="Couch"  >
-            <primitive object={ couch } position={[-0.15, -0.1, -0.2]} />
-            <primitive object={ carpet }  position={[-0.05, -0.1, 0]}/>
+            <primitive object={ couch } position={[-0.15, -1, -0.2]} />
+            <primitive object={ carpet }  position={[-0.05, -1, 0]}/>
         </group>
     );
 };

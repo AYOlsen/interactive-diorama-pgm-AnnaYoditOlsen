@@ -1,26 +1,28 @@
 {
   "files": {
     "main.css": "/interactive-diorama-pgm-AnnaYoditOlsen/static/css/main.0f9fc812.css",
-    "main.js": "/interactive-diorama-pgm-AnnaYoditOlsen/static/js/main.2c20bfc2.js",
+    "main.js": "/interactive-diorama-pgm-AnnaYoditOlsen/static/js/main.487c7b2c.js",
     "static/media/lamp.glb": "/interactive-diorama-pgm-AnnaYoditOlsen/static/media/lamp.878c49cd1cc7cfc917b4.glb",
     "static/media/plant.glb": "/interactive-diorama-pgm-AnnaYoditOlsen/static/media/plant.72335e061c03c585b4cc.glb",
+    "static/media/neon.glb": "/interactive-diorama-pgm-AnnaYoditOlsen/static/media/neon.b815814656fcfe2be913.glb",
     "static/media/chair.glb": "/interactive-diorama-pgm-AnnaYoditOlsen/static/media/chair.fafe5ba246610887da6e.glb",
     "static/media/couch.glb": "/interactive-diorama-pgm-AnnaYoditOlsen/static/media/couch.45bb9a8b59e4d4ac0daf.glb",
     "static/media/quick-mechanical-keyboard-14391.mp3": "/interactive-diorama-pgm-AnnaYoditOlsen/static/media/quick-mechanical-keyboard-14391.4c96de9083783fc55534.mp3",
     "static/media/coffee.glb": "/interactive-diorama-pgm-AnnaYoditOlsen/static/media/coffee.d6d6f291462533018fc1.glb",
-    "static/media/keyboard.glb": "/interactive-diorama-pgm-AnnaYoditOlsen/static/media/keyboard.aca5c40a037181622f86.glb",
     "static/media/carpet.glb": "/interactive-diorama-pgm-AnnaYoditOlsen/static/media/carpet.67d787ed82f51bcba2c0.glb",
+    "static/media/keyboard.glb": "/interactive-diorama-pgm-AnnaYoditOlsen/static/media/keyboard.b296d7d34da278c7edb1.glb",
     "static/media/wallDeco.glb": "/interactive-diorama-pgm-AnnaYoditOlsen/static/media/wallDeco.21f3f261c6b5833bb2a1.glb",
     "static/media/animatie.glb": "/interactive-diorama-pgm-AnnaYoditOlsen/static/media/animatie.15d34dde4ccf8c722c9a.glb",
+    "static/media/desk.glb": "/interactive-diorama-pgm-AnnaYoditOlsen/static/media/desk.3e093bb5abad320b5b42.glb",
     "static/media/computer.glb": "/interactive-diorama-pgm-AnnaYoditOlsen/static/media/computer.b66ca1082b10e82cf572.glb",
-    "static/media/desk.glb": "/interactive-diorama-pgm-AnnaYoditOlsen/static/media/desk.6326cb6bd817dc22e50e.glb",
+    "static/media/drawer.glb": "/interactive-diorama-pgm-AnnaYoditOlsen/static/media/drawer.7e4d813e140dd4e35b6a.glb",
     "static/media/mat.glb": "/interactive-diorama-pgm-AnnaYoditOlsen/static/media/mat.360ca8c3892eaa64da0a.glb",
     "index.html": "/interactive-diorama-pgm-AnnaYoditOlsen/index.html",
     "main.0f9fc812.css.map": "/interactive-diorama-pgm-AnnaYoditOlsen/static/css/main.0f9fc812.css.map",
-    "main.2c20bfc2.js.map": "/interactive-diorama-pgm-AnnaYoditOlsen/static/js/main.2c20bfc2.js.map"
+    "main.487c7b2c.js.map": "/interactive-diorama-pgm-AnnaYoditOlsen/static/js/main.487c7b2c.js.map"
   },
   "entrypoints": [
     "static/css/main.0f9fc812.css",
-    "static/js/main.2c20bfc2.js"
+    "static/js/main.487c7b2c.js"
   ]
 }

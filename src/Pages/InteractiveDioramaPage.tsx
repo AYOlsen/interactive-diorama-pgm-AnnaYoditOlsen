@@ -9,6 +9,7 @@ import { Lamp } from "Components/deskLamp";
 import { Chair } from "Components/chair";
 import { WallDeco } from "Components/wallDeco";
 import { Animation } from "Components/animation";
+import { Drawer } from "Components/drawer";
 
 
 const InteractiveDioramaPage = (props: GroupProps): JSX.Element => {
@@ -22,6 +23,7 @@ const InteractiveDioramaPage = (props: GroupProps): JSX.Element => {
       <Chair />
       <WallDeco />
       <Animation />
+      <Drawer />
     </Layout>
   );
 };

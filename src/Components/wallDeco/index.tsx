@@ -25,7 +25,7 @@ const WallDeco = () => {
     return (
         <group
             name="WallDeco"
-            position={[-0.2, 0.2, 0]}
+            position={[-0.2, -0.6, 0]}
         >
             <Text
                 position={[-1.8, 2.7, 0.8]}

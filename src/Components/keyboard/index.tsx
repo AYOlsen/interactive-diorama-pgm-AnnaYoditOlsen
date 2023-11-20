@@ -24,7 +24,7 @@ const Keyboard = () => {
     };
 
     return (
-        <group name="Keyboard" position={[0, -0.1, -0.4]}>
+        <group name="Keyboard" position={[0, -1, -0.35]}>
             <primitive object={scene} onClick={handleClick}/>
             <PositionalAudio ref={positionalAudioRef} url={keyboardAudio} />
         </group>

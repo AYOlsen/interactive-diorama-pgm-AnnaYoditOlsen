@@ -18,7 +18,7 @@ const Lamp = () => {
     };
 
     return (
-        <group name="Lamp" position={[0, -0.1, -0.35]} onClick={toggleLight}>
+        <group name="Lamp" position={[0, -1, -0.35]} onClick={toggleLight}>
             <primitive object={scene!} ref={lampRef} />
             {lightVisible && <primitive object={light} />}
         </group>

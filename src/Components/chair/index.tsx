@@ -7,7 +7,7 @@ const Chair = () => {
     const { scene } = useGLTF(gltfChair) as GLTF;
 
     return (
-        <group name="Chair" position={[0, -0.1, -0.4]}>
+        <group name="Chair" position={[0, -1.1, -0.4]}>
             <primitive object={scene!} />
         </group>
     );

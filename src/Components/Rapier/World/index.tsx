@@ -5,7 +5,7 @@ import { RapierWorldFloor as Floor } from "Components/Rapier/World/Floor";
 
 const RapierWorld = (props: GroupProps) => {
   return (
-    <group name="World" {...props}>
+    <group name="World" {...props} position={[0, -1, 0]}>
       <Floor />
       <Box />
     </group>

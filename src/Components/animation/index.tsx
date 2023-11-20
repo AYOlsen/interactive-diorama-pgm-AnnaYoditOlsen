@@ -20,7 +20,7 @@ const Animation = () => {
   });
 
   return (
-    <group name="Animation" position={[-0.1, -0.1, -0.35]}>
+    <group name="Animation" position={[-0.1, -1, -0.35]}>
       <primitive object={scene} ref={animationRef} />
     </group>
   );

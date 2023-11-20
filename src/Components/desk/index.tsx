@@ -6,6 +6,7 @@ import gltfMat from "./assets/mat.glb";
 import gltfCoffee from "./assets/coffee.glb";
 import gltfPlant from "./assets/plant.glb";
 import gltfComputer from "./assets/computer.glb";
+import gltfNeon from "./assets/neon.glb";
 
 const Desk = () => {
     const { scene: desk } = useGLTF(gltfDesk) as GLTF;
@@ -13,12 +14,14 @@ const Desk = () => {
     const { scene: coffee} = useGLTF(gltfCoffee) as GLTF;
     const { scene: plant } = useGLTF(gltfPlant) as GLTF;
     const { scene: computerStand } = useGLTF(gltfComputer) as GLTF;
+    const { scene: neon } = useGLTF(gltfNeon) as GLTF;
 
     return (
-        <group name="Desk" position={[0, -0.1, -0.35]}>
+        <group name="Desk" position={[0, -1, -0.35]}>
             <primitive object={ coffee } />
             <primitive object={ desk } />
             <primitive object={ mat } />
+            <primitive object={ neon }/>
             <primitive object={ computerStand }/>
             <primitive object={ plant } position={[0, 0, -0.10]}/>
         </group>
